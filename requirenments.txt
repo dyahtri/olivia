@@ -1,0 +1,9 @@
+numpy
+streamlit
+streamlit-option-menu
+pandas
+matplotlib
+pyngrok
+linearmodels
+seaborn
+statsmodels
